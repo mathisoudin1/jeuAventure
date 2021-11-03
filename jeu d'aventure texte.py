@@ -6,7 +6,6 @@ from math import pi
 import random
 
 codePieceSecrete = random.randrange(1000, 9999)
-codePieceSecrete = 1234
 
 # La variable informationDesPieces liste toutes les pieces possibles dans le programme (13 pièces différentes). 
 # Pour chaque pièce il y a un dictionnaire décrivant le nom de la pièce et les directions possibles ou le personnage peut aller.
