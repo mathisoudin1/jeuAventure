@@ -1,5 +1,5 @@
 ﻿"""
-Programme réalisé par Oudin, Mathis, 1G4
+Programme réalisé par Oudin, Mathis, et Léopold Bouglé 1G4
 """
 import random
 import pygame
